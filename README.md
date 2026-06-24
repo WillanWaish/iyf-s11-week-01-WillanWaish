@@ -1,2 +1,31 @@
 # iyf-s11-week-01-WillanWaish-
 My portfolio 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Willan Mwangi a student learng programing</title>
+</head>
+<body>
+  <main>
+   <header>
+     <h1>Am Willan</h1>
+       <p>My name is Willan Mwangi.A programing student at Wigan. Am passionate in learning about software development</p>
+       <p>I have a passion  on volkswagen cars and learning on how to code. 
+       </p>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcsweGJtzZ4OXAo7cHGiiobwjODIa_gmabmtmmTuHGA&s=10"> 
+       <p>Visit my favourite website 
+            <a href="htpps//volkswagen.com"></a> 
+        <p>contact me:
+            <a href="mailto:mwangiwillan@gmai.com"></a>
+        </p> 
+     <h2>My personalities</h2> 
+       <ul>
+         <li>Ruby</li>
+         <li>football</li>
+         <li>swimming</li>
+       </ul>
+  </main>
+</body>
+</html>
