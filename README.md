@@ -5,7 +5,7 @@ My portfolio
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Willan Mwangi a student learng programing</title>
+    <titleWillan Mwangi a student learng programing</title>
 </head>
 <body>
   <main>
