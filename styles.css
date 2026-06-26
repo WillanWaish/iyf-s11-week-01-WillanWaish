@@ -3,13 +3,13 @@
     padding: 10px;
     box-sizing: border-box;
 }
-
-*h1{
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.6;
-    font-color:orange
-}
 body{
     background-color: rgb(220, 48, 17);
 }
+h1 {
+    color: aqua;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
